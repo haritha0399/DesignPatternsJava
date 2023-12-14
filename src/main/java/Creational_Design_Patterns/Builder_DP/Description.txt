@@ -1,0 +1,4 @@
+It helps in creation of the object - hiding the complexity of the creation.
+
+Focus on creating complex object step by step.
+Helps in composite object creation.

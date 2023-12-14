@@ -1,0 +1,5 @@
+Coyping one object's characteristics to other objects.
+From the copied object - additional features can be added.
+
+Advantage:
+Cost of production is less.

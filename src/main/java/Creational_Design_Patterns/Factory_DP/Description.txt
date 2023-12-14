@@ -1,0 +1,5 @@
+It helps in creation of the object - hiding the complexity of the creation.
+
+It helps in creation of one object.
+Example:
+A carpenter knows to craft only door / window for a house.

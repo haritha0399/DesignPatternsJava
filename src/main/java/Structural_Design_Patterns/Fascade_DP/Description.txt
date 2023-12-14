@@ -1,0 +1,5 @@
+Fascade design pattern hides the complexity of the system and provides an interface to the
+user - so that the user can access the complex system.
+
+Examples:
+1. Start the car with the key
